@@ -1,2 +1,0 @@
-# FalconRepo
-Sample Angular Project
